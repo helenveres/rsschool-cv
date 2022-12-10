@@ -11,9 +11,10 @@ Telegram: @veres_el
 
 [Githab](https://github.com/helenveres)
 
+
 ### Briefly About Myself:
 
-I've started my career as a Business Development Manager at a very cosy company. I know exactly how to find a cool project for the development team, now I'm curious now how to build it :) I'd love to leard this new field for me. 
+I've started my career as a Business Development Manager at a very cosy company. I know exactly how to find a cool project for the development team, now I'm curious now how to build it :) I'd love to leard this new field for me. I would like to explore the world of code and hope that my ability to learn and to gain new skills will help me to achieve my goal. 
 
 ### Skills
 
